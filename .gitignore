@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# 虚拟环境
+venv/
+ENV/
+.env/
+.venv/
+
+# 依赖包
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# 日志和缓存
+*.log
+*.sqlite3
+*.db
+*.cache
+
+# 输出缩略图和拼图
+thumbnails/
+thumbnails_grid/
+
+# Jupyter/IDE
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+
+# 临时文件
+*.tmp
+*.bak
+~*
+
+# 配置文件（如有敏感信息可加）
+# config.json 
